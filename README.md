@@ -51,5 +51,5 @@ With my comprehensive educational background, strong technical skills, and a pas
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src=""/>
 </p>
