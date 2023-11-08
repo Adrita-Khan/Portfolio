@@ -45,7 +45,7 @@ With my comprehensive educational background, strong technical skills, and a pas
 
 ## 📊 GitHub Stats:
 
-<img alt="Adrita's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajit13&theme=white&&hide_border=true" width='48%' /> <img alt="Adrita's's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=Rajit13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="Adrita's GitHub Streak" src="" width='48%' /> <img alt="Adrita's's GitHub Stats" src="" width='48%' />
 <br>
 
 <!--END_SECTION:waka-->
