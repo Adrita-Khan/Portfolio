@@ -39,7 +39,7 @@ With my comprehensive educational background, strong technical skills, and a pas
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajit13&theme=minimal"/>
+    <img height="300px" src=""/>
 </div>
 <br>
 
